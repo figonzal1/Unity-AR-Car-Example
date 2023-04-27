@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
-  m_Name: MyReferenceImageLibrary
+  m_Name: MyReferenceImageTotem
   m_EditorClassIdentifier: 
-  m_GuidLow: 4652716810366991847
-  m_GuidHigh: 11302158015724257936
+  m_GuidLow: 5200085341335974325
+  m_GuidHigh: 13390259686069771174
   m_DataStore:
     m_Storage:
     - key: com.unity.xr.arcore
@@ -27,5 +27,5 @@ MonoBehaviour:
       m_GuidHigh: 5274643429642860985
     m_Size: {x: 0.2, y: 0.2}
     m_SpecifySize: 1
-    m_Name: qr
+    m_Name: qr_totem
     m_Texture: {fileID: 0}

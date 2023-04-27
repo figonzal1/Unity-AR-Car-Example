@@ -62,7 +62,7 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: productName
-    value: ARCarTesting
+    value: ARTotemQR
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: defaultCursor
@@ -570,12 +570,30 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: preloadedAssets.Array.size
-    value: 1
+    value: 5
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: preloadedAssets.Array.data[0]
     value: 
     objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: preloadedAssets.Array.data[1]
+    value: 
+    objectReference: {fileID: 4800000, guid: c9f956787b1d945e7b36e0516201fc76, type: 3}
+  - target: {fileID: 0}
+    propertyPath: preloadedAssets.Array.data[2]
+    value: 
+    objectReference: {fileID: -6423738888901739326, guid: 58f40b12bbc864f3c96c6505a9a1e1e3,
+      type: 2}
+  - target: {fileID: 0}
+    propertyPath: preloadedAssets.Array.data[3]
+    value: 
+    objectReference: {fileID: 11400000, guid: 1eb95d77acb39444e8cf44313496a874, type: 2}
+  - target: {fileID: 0}
+    propertyPath: preloadedAssets.Array.data[4]
+    value: 
+    objectReference: {fileID: 6652978329898183702, guid: 6bb381a8ba31f114d9724357633b4625,
+      type: 2}
   - target: {fileID: 0}
     propertyPath: metroInputSource
     value: 0
@@ -658,7 +676,7 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: applicationIdentifier.Array.data[0].second
-    value: com.AndreasJakl.ArFoundationDemo
+    value: com.RyC.ARTotemQR
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: buildNumber.Array.size
@@ -690,7 +708,7 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: overrideDefaultApplicationIdentifier
-    value: 1
+    value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: AndroidBundleVersionCode
