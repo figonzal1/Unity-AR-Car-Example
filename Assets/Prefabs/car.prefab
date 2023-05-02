@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7177939935315833838}
   m_Layer: 0
-  m_Name: qr_car
+  m_Name: car
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
